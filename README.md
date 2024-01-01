@@ -5,13 +5,13 @@
 In BATTLESHIP, your goal is to attack and sink the opponent's ships.
 The enemy ships are hidden. There are 5 different ship types:
 
- SYMBOLS  |  SHIP TYPE  | SIZE  
-==========|=============|======
-A A       | Patrol ship | 2     
-B B B     | Cruiser     | 3     
-C C C     | Submarine   | 3     
-D D D D   | Battleship  | 4     
-E E E E E | Carrier     | 5     
+| SYMBOLS   | SHIP TYPE   | SIZE |
+|-----------|-------------|------|
+| A A       | Patrol ship | 2    |
+| B B B     | Cruiser     | 3    |
+| C C C     | Submarine   | 3    |
+| D D D D   | Battleship  | 4    |
+| E E E E E | Carrier     | 5    |
  
 You attack your opponent by choosing a row(y) and column(x). The grid will
 keep track of your shots. After every guess, it will be marked as a miss (/)
